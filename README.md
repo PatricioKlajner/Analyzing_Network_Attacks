@@ -1,4 +1,4 @@
-<h1>Analyzing Network Attacks</h1>
+<h1>Analyzing Network Attacks with Wireshark</h1>
 
 <h2>Description</h2>
 In this project, I will consider a scenario involving a customer of the company I work for who experiences a security issue when accessing the company’s website. The task will consist of identifying the likely cause of the service interruption and then explaining how the attack occurred and the negative impact it had on the website. This will be accomplished through analysis of Wireshark Logs.
